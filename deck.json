@@ -1,6 +1,138 @@
 {
     "__type__": "Deck",
-    "children": [],
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8f3f30e7-84d2-11eb-a6a1-b46d83530bff",
+            "deck_config_uuid": "46448205-6b20-11eb-bc0a-b46d83530bff",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "latex-1188bd86566b394872aa93c932600b773d164dca.png",
+                "latex-194916c5d6bfe4be6fa6e5572f28d78a6c75b5ea.png",
+                "latex-1f72a7b73589548eba5c08417cdc88bc74e1daf1.png",
+                "latex-1fd9213d53a8232f6d181bdf666abb8ad48421a5.png",
+                "latex-48a36befc609ee17cb50f8784804dc0b23acb097.png",
+                "latex-5269b79d25a9f9b03fe31bbe7aaa105198f02cc3.png",
+                "latex-6d86a414b3ed41504e6c476db60a1154e100912a.png",
+                "latex-79309ac8ad4a3d4bc0bf36cd9e08f5fb7ebbd520.png",
+                "latex-938c4eb248cb661c464ee7e180697181910acc93.png",
+                "latex-94e7cc26cfed8ccfc4b9b054f2d03364610f9a9e.png",
+                "latex-98271119b885f41c87d56d1726e1f2d9d9440a9b.png",
+                "paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg",
+                "paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg"
+            ],
+            "name": "01 Zustands- und Prozessgrößen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was wird bei der klassischen Thermodynamik betrachtet?",
+                        "[latex]\\begin{itemize}<div>\\item makroskopische Betrachtung</div><div>\\item keine Betrachtung der Atome/Moleküle (Teilchen)</div><div>\\item Mittelwertbildung</div><div>\\item Kontinuumstheorie</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "JiYW`EK3_b",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die mittlere freie Weglänge und wann, bzw. wie wird sie betrachtet?",
+                        "<div>[latex]<br></div><div><br></div><div>\\begin{itemize}</div><div>\\item der zwischen zwei aufeinanderfolgenden Stöße im Mittel zurückgelegte Weg</div><div>\\end{itemize}<br></div><div><br></div><div>\\textbf{Mikroskopische Betrachtung}\\\\<br></div>Teilchen bewegen sich auf geraden Bahnen, bis sie durch Stöße untereinander oder mit Berandungen abgelenkt werden.\\\\<div><br></div><div>Luft&nbsp; unter Normalbedingungen: $l=6,6\\cdot10^{-8} = 66\\,nm$<br><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "G+s7M62ht?",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne die drei Hypothesen und die Idealisierungen der Modelltheorie!",
+                        "[latex]<div>Hypothesen:<br><div>\\begin{itemize}</div><div>\\item Materie besteht aus diskreten Teilchen. Teilchen einer Substanz sind gleich.</div><div>\\item Interaktion der Teilchen folgen den Gesetzen der Mechanik:</div><div><div>\\begin{itemize}</div><div>\\item Impulserhaltung</div><div>\\item Energieerhaltung</div><div>\\end{itemize}</div></div><div>\\item Teilchenanzahl ist sehr groß:</div><div><div>\\begin{itemize}</div><div>\\item statistische Betrachtung</div><div>\\end{itemize}</div></div><div>\\end{itemize}</div><div>Idealisierung:</div><div><div>\\begin{itemize}</div><div>\\item Teilchen sind Punktmassen ($m_{T}$), deren Eigenvolumen vernachlässigbar ist. (Keine Verformung beim Stoß.)</div><div>\\item Teilchen sind kugelförmig mit Modelldurchmesser $\\sigma$</div><div>\\item Teilchen sind viel kleiner als ihre mittlere freie Weglänge. ($l&gt;&gt;\\sigma$)</div><div>\\item Teilchen sind weit voneinander entfernt. Mittlerer Teilchenabstand ($d&gt;&gt;\\sigma$)</div><div>\\item Teilchen führen nur elastische Stöße aus.</div><div>\\begin{itemize}</div><div>\\item Modell der starren Kugel</div><div>\\item keine intermolekularen Wechselwirkungen (keine Anziehung; keine Abstoßung ohne Berührung) $\\to$ Modell des idealen Gases</div><div>\\item Abweichung für sehr dichte Gase.</div><div>\\item Abweichung für komplexe Moleküle</div><div>\\end{itemize}<br></div><div>\\end{itemize}</div></div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "MJ6P`g+eL)",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]In welchem Zusammenhang stehen die mittlere freie Weglänge, Temperatur, Druck, Volumen, Masse und Dichte?[/latex]",
+                        "[latex]<div>$pV=mRT$, mit&nbsp; $R= const.$ \\&amp; $m=const.$\\\\</div><div>\\\\</div><div>Wenn $V=const.$ \\&amp; $T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\downarrow$ $\\to$ mittlere freie Weglänge $l = const.$\\\\</div><div><div>Wenn $V\\downarrow$ \\&amp; $ T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\uparrow$ $\\to$ mittlere freie Weglänge $ l\\downarrow$.\\\\</div><div><br></div><div>\\textbf{Die mittlere freie Weglänge wächst mit abnehmender Dichte}</div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "zd[UdtS?wy",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welchem Zusammenhang steht die Reynoldszahl zur Kinetischen Gastheorie?",
+                        "[latex]<div>Reynoldszahl:\\\\</div><div>$Re=\\frac{cL}{\\nu}$\\\\</div><div>\\\\</div><div>Kinetische Gastheorie: \\\\</div><div>$\\nu \\propto \\l\\bar{c}$, $\\bar{c}$ Mittlere Teilchengeschwindigkeit\\\\</div><div>$\\bar{c} \\approx c_s$, $c_s$ Schallgeschwindigkeit\\\\</div><div>\\\\</div><div>$Re \\propto \\frac{cL}{\\nu}\\frac{l\\bar{c}}{lc_s}\\frac{c_s}{l\\bar{c}} \\propto Ma\\frac{L}{l}$\\\\</div><div>\\\\</div><div>$\\frac{l}{L} \\propto \\frac{Ma}{Re}$\\\\</div><div>\\\\</div><div>Ideales Gas: $\\frac{1}{\\rho} \\propto \\frac{T}{p} \\to l\\uparrow$, wenn $\\frac{T}{p}\\uparrow$</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "kn3Wd/wx6<",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie hängt die mittlere freie Weglänge l mit der Wärmeleitung durch ein Medium (ruhendes Gas) zusammen?",
+                        "<img src=\"paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg\"><div><br><div>[latex]</div><div>Der Wärmestrom, der durch Wärmeleitung von einer Wand mit Temperatur $T_1$ zur kälteren Wand $T_2$ transportiert wird, nimmt mit wachsender mittleren freien Weglänge ab.</div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "miTr_P|mO[",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie lautet das Theorem von Leukippos/Demokrit und was sagt es aus?[/latex]<br>",
+                        "[latex]<div>\\textbf{\\textit{Bewegung wäre unmöglich, wenn kein leerer Raum existiert, in den ein Körper sich hinein bewegen kann.}}\\\\</div><div>\\\\</div><div>\\begin{itemize}</div><div>\\item Materie besteht aus Teilchen, die sich im leeren Raum bewegen</div><div>\\item Materie ist nicht beliebig teilbar</div><div>\\item kleinste, unteilbare Einheit $\\alpha\\tau o\\mu o\\sigma$(atomos)</div><div>\\item Atome sind von verschiedener Gestalt</div><div>\\item Unterschiede in den Materialeigenschaften durch unterschiedliche Teilchen und Bewegungen</div><div>\\end{itemize}</div><div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "i}YaB(`|NR",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet die Theorie von Empedocles/Plato/Aristoteles?",
+                        "<img src=\"paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg\">"
+                    ],
+                    "guid": "fsU<rIVz<X",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was sind Prozessgrößen?[/latex]<br>",
+                        "[latex]Eine&nbsp;<b>Prozess-</b>&nbsp;oder&nbsp;<b>Vorgangsgröße</b>&nbsp;ist eine&nbsp;<a href=\"https://de.wikipedia.org/wiki/Physikalische_Gr%C3%B6%C3%9Fe\">physikalische Größe</a>, die ausschließlich bei&nbsp;<a href=\"https://de.wikipedia.org/wiki/Zustands%C3%A4nderung\">Zustandsänderungen</a>&nbsp;auftritt und den Prozess der Zustandsänderung beschreibt.<sup><a href=\"https://de.wikipedia.org/wiki/Prozessgr%C3%B6%C3%9Fe#cite_note-1\">[1]</a></sup>&nbsp;Daher sind Prozessgrößen vom Weg der Änderung abhängig. Prozessgrössen beschreiben, wie ein&nbsp;<a href=\"https://de.wikipedia.org/wiki/Zustand_(Thermodynamik)\">Zustand</a>&nbsp;in einen anderen Zustand übergeht.<div>Dies steht im Gegensatz zu den&nbsp;<a href=\"https://de.wikipedia.org/wiki/Zustandsgr%C3%B6%C3%9Fe\">Zustandsgrößen</a>, welche lediglich vom jeweiligen Zustand abhängen, und für die es ohne Bedeutung ist, auf welche Art und Weise sich dieser Zustand eingestellt hat.</div>Durch Zu- oder Abfuhr von&nbsp;<a href=\"https://de.wikipedia.org/wiki/Energie\">Energie</a>&nbsp;erfährt ein&nbsp;<a href=\"https://de.wikipedia.org/wiki/Thermodynamisches_System\">thermodynamisches System</a>&nbsp;eine Zustandsänderung. Die hierbei verrichtete&nbsp;<a href=\"https://de.wikipedia.org/wiki/Arbeit_(Physik)\">Arbeit</a>&nbsp;W&nbsp;und ausgetauschte&nbsp;<a href=\"https://de.wikipedia.org/wiki/W%C3%A4rme\">Wärme</a>&nbsp;Q&nbsp;sind daher Prozessgrößen.[/latex]<br>"
+                    ],
+                    "guid": "d>(A3nK)BT",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "8f406945-84d2-11eb-8be0-b46d83530bff",
+            "deck_config_uuid": "46448205-6b20-11eb-bc0a-b46d83530bff",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "02 Elementare Behandlung",
+            "notes": []
+        }
+    ],
     "crowdanki_uuid": "1075b490-80d4-11eb-9ea5-b46d83530bff",
     "deck_config_uuid": "46448205-6b20-11eb-bc0a-b46d83530bff",
     "deck_configurations": [
@@ -51,19 +183,7 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [
-        "latex-194916c5d6bfe4be6fa6e5572f28d78a6c75b5ea.png",
-        "latex-1f72a7b73589548eba5c08417cdc88bc74e1daf1.png",
-        "latex-1fd9213d53a8232f6d181bdf666abb8ad48421a5.png",
-        "latex-48a36befc609ee17cb50f8784804dc0b23acb097.png",
-        "latex-6d86a414b3ed41504e6c476db60a1154e100912a.png",
-        "latex-79309ac8ad4a3d4bc0bf36cd9e08f5fb7ebbd520.png",
-        "latex-938c4eb248cb661c464ee7e180697181910acc93.png",
-        "latex-94e7cc26cfed8ccfc4b9b054f2d03364610f9a9e.png",
-        "latex-98271119b885f41c87d56d1726e1f2d9d9440a9b.png",
-        "paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg",
-        "paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg"
-    ],
+    "media_files": [],
     "name": "Kinetische Gastheorie",
     "note_models": [
         {
@@ -104,9 +224,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
@@ -124,86 +242,5 @@
             "vers": []
         }
     ],
-    "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "Was wird bei der klassischen Thermodynamik betrachtet?",
-                "[latex]\\begin{itemize}<div>\\item makroskopische Betrachtung</div><div>\\item keine Betrachtung der Atome/Moleküle (Teilchen)</div><div>\\item Mittelwertbildung</div><div>\\item Kontinuumstheorie</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
-            ],
-            "guid": "JiYW`EK3_b",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Was ist die mittlere freie Weglänge und wann, bzw. wie wird sie betrachtet?",
-                "<div>[latex]<br></div><div><br></div><div>\\begin{itemize}</div><div>\\item der zwischen zwei aufeinanderfolgenden Stöße im Mittel zurückgelegte Weg</div><div>\\end{itemize}<br></div><div><br></div><div>\\textbf{Mikroskopische Betrachtung}\\\\<br></div>Teilchen bewegen sich auf geraden Bahnen, bis sie durch Stöße untereinander oder mit Berandungen abgelenkt werden.\\\\<div><br></div><div>Luft&nbsp; unter Normalbedingungen: $l=6,6\\cdot10^{-8} = 66\\,nm$<br><div>[/latex]<br></div></div>"
-            ],
-            "guid": "G+s7M62ht?",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Nenne die drei Hypothesen und die Idealisierungen der Modelltheorie!",
-                "[latex]<div>Hypothesen:<br><div>\\begin{itemize}</div><div>\\item Materie besteht aus diskreten Teilchen. Teilchen einer Substanz sind gleich.</div><div>\\item Interaktion der Teilchen folgen den Gesetzen der Mechanik:</div><div><div>\\begin{itemize}</div><div>\\item Impulserhaltung</div><div>\\item Energieerhaltung</div><div>\\end{itemize}</div></div><div>\\item Teilchenanzahl ist sehr groß:</div><div><div>\\begin{itemize}</div><div>\\item statistische Betrachtung</div><div>\\end{itemize}</div></div><div>\\end{itemize}</div><div>Idealisierung:</div><div><div>\\begin{itemize}</div><div>\\item Teilchen sind Punktmassen ($m_{T}$), deren Eigenvolumen vernachlässigbar ist. (Keine Verformung beim Stoß.)</div><div>\\item Teilchen sind kugelförmig mit Modelldurchmesser $\\sigma$</div><div>\\item Teilchen sind viel kleiner als ihre mittlere freie Weglänge. ($l&gt;&gt;\\sigma$)</div><div>\\item Teilchen sind weit voneinander entfernt. Mittlerer Teilchenabstand ($d&gt;&gt;\\sigma$)</div><div>\\item Teilchen führen nur elastische Stöße aus.</div><div>\\begin{itemize}</div><div>\\item Modell der starren Kugel</div><div>\\item keine intermolekularen Wechselwirkungen (keine Anziehung; keine Abstoßung ohne Berührung) $\\to$ Modell des idealen Gases</div><div>\\item Abweichung für sehr dichte Gase.</div><div>\\item Abweichung für komplexe Moleküle</div><div>\\end{itemize}<br></div><div>\\end{itemize}</div></div><div>[/latex]<br></div></div>"
-            ],
-            "guid": "MJ6P`g+eL)",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "[latex]In welchem Zusammenhang stehen die mittlere freie Weglänge, Temperatur, Druck, Volumen, Masse und Dichte?[/latex]",
-                "[latex]<div>$pV=mRT$, mit&nbsp; $R= const.$ \\&amp; $m=const.$\\\\</div><div>\\\\</div><div>Wenn $V=const.$ \\&amp; $T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\downarrow$ $\\to$ mittlere freie Weglänge $l = const.$\\\\</div><div><div>Wenn $V\\downarrow$ \\&amp; $ T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\uparrow$ $\\to$ mittlere freie Weglänge $ l\\downarrow$.\\\\</div><div><br></div><div>\\textbf{Die mittlere freie Weglänge wächst mit abnehmender Dichte}</div><div>[/latex]<br></div></div>"
-            ],
-            "guid": "zd[UdtS?wy",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In welchem Zusammenhang steht die Reynoldszahl zur Kinetischen Gastheorie?",
-                "[latex]<div>Reynoldszahl:\\\\</div><div>$Re=\\frac{cL}{\\nu}$\\\\</div><div>\\\\</div><div>Kinetische Gastheorie: \\\\</div><div>$\\nu \\propto \\l\\bar{c}$, $\\bar{c}$ Mittlere Teilchengeschwindigkeit\\\\</div><div>$\\bar{c} \\approx c_s$, $c_s$ Schallgeschwindigkeit\\\\</div><div>\\\\</div><div>$Re \\propto \\frac{cL}{\\nu}\\frac{l\\bar{c}}{lc_s}\\frac{c_s}{l\\bar{c}} \\propto Ma\\frac{L}{l}$\\\\</div><div>\\\\</div><div>$\\frac{l}{L} \\propto \\frac{Ma}{Re}$\\\\</div><div>\\\\</div><div>Ideales Gas: $\\frac{1}{\\rho} \\propto \\frac{T}{p} \\to l\\uparrow$, wenn $\\frac{T}{p}\\uparrow$</div><div>[/latex]<br></div>"
-            ],
-            "guid": "kn3Wd/wx6<",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie hängt die mittlere freie Weglänge l mit der Wärmeleitung durch ein Medium (ruhendes Gas) zusammen?",
-                "<img src=\"paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg\"><div><br><div>[latex]</div><div>Der Wärmestrom, der durch Wärmeleitung von einer Wand mit Temperatur $T_1$ zur kälteren Wand $T_2$ transportiert wird, nimmt mit wachsender mittleren freien Weglänge ab.</div><div>[/latex]<br></div></div>"
-            ],
-            "guid": "miTr_P|mO[",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "[latex]Wie lautet das Theorem von Leukippos/Demokrit und was sagt es aus?[/latex]<br>",
-                "[latex]<div>\\textbf{\\textit{Bewegung wäre unmöglich, wenn kein leerer Raum existiert, in den ein Körper sich hinein bewegen kann.}}\\\\</div><div>\\\\</div><div>\\begin{itemize}</div><div>\\item Materie besteht aus Teilchen, die sich im leeren Raum bewegen</div><div>\\item Materie ist nicht beliebig teilbar</div><div>\\item kleinste, unteilbare Einheit $\\alpha\\tau o\\mu o\\sigma$(atomos)</div><div>\\item Atome sind von verschiedener Gestalt</div><div>\\item Unterschiede in den Materialeigenschaften durch unterschiedliche Teilchen und Bewegungen</div><div>\\end{itemize}</div><div><div>[/latex]<br></div></div>"
-            ],
-            "guid": "i}YaB(`|NR",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie lautet die Theorie von Empedocles/Plato/Aristoteles?",
-                "<img src=\"paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg\">"
-            ],
-            "guid": "fsU<rIVz<X",
-            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-            "tags": []
-        }
-    ]
+    "notes": []
 }
