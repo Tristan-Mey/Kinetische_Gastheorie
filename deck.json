@@ -22,9 +22,12 @@
                 "latex-2da0b2989603bbe50acea89a34e858d8f1f6b38a.png",
                 "latex-327b3802a59b4c4a3ae9cf0a6f97021bc6adb1f2.png",
                 "latex-3989a654b0bf8e12dc2a9220ad4a7770cfb14676.png",
+                "latex-3a4c419c2aafa7e76bd12cdd790e41d8f5883122.png",
                 "latex-4420f262be69857a24582efa6dd85ee3fd3e3268.png",
+                "latex-46a97edb2c08733b75ed93f8f9ed70416be8f016.png",
                 "latex-48a36befc609ee17cb50f8784804dc0b23acb097.png",
                 "latex-5269b79d25a9f9b03fe31bbe7aaa105198f02cc3.png",
+                "latex-6689c17f80c54389a4b88d9a6950de1d1bd6132c.png",
                 "latex-6d86a414b3ed41504e6c476db60a1154e100912a.png",
                 "latex-79309ac8ad4a3d4bc0bf36cd9e08f5fb7ebbd520.png",
                 "latex-7c8e18e4b968e21581c5dc9fa85e339806023a58.png",
@@ -37,11 +40,13 @@
                 "latex-98271119b885f41c87d56d1726e1f2d9d9440a9b.png",
                 "latex-ce1c22c84fbe705f0ee869dde3019f1ecb9b0fbd.png",
                 "latex-d470e468e2331a779888373ed50c44b3eb44b833.png",
+                "latex-edbf88e7bc79a2c27db70ca22b6075e4ce2cc565.png",
                 "latex-f0f2b19291f97b087d310022891a9820563100c0.png",
                 "latex-f331b8a9d015a16814feb5dbcccb94839fcd8338.png",
                 "latex-f9e23781d641c7559a99847f175c405c41f19b1e.png",
                 "paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg",
-                "paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg"
+                "paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg",
+                "paste-8b100553708a477275819e2ce5de61e34c039f4e.jpg"
             ],
             "mid": 1602258218705,
             "name": "01 Zustands- und Prozessgrößen",
@@ -195,6 +200,26 @@
                     "guid": "ch5D~4`)IP",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist die Stokessche Annahme in Bezug auf Zustandsgrößen und was ist die Besonderheit die sich daraus ergibt?[/latex]<br>",
+                        "[latex]Der Druck p ergibt sich aus dem Mittelwert der Normaldrücke in alle 3 Raumrichtungen unter der Annhame, dass diese im Gleichgewicht sind.\\\\<div>Gesamtdruck ist eine skalare Größe und lässt sich in über ideale Gasgleichung in Temepratur umrechnen. Verhätlins von T zu p ist keine Funktion von der Verteilungsfunktion und somit auch für ein Gas im Nichtgleichgewicht gültig.[/latex]<br><div><img src=\"paste-8b100553708a477275819e2ce5de61e34c039f4e.jpg\"><br></div></div>"
+                    ],
+                    "guid": "B4$-xkeDA7",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was gilt für Zustands- und Prozessgrößen für Gas im Gleichgewicht?[/latex]<br>",
+                        "[latex]Makroskopische Geschwindigkeit, Tangentialdrücke und Wärmestrom sind gleich Null.[/latex]<br>"
+                    ],
+                    "guid": "jP~I10.G@.",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
                 }
             ]
         },
@@ -207,9 +232,83 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "latex-169644d70cb804a9f1a563158e1e6627afb0512f.png",
+                "latex-247ed792407424dbb721ef770693120c6774a4a2.png",
+                "latex-28a7554cd91be3ed1e6db191cb4cddb5519fe730.png",
+                "latex-4298a4a4ea8593ec0675a960712604f8f52e2e38.png",
+                "latex-622d034ebbd08f14281a1f35e9b30f178a6f89b1.png",
+                "latex-696f40b26d6887ec0761df197a10e1a250510aeb.png",
+                "latex-7e457584f6ba50b9f94e6ce598d4172e3d49c598.png",
+                "latex-7f0bd6596fc9c8171ce6687065a6e5111cda44f4.png",
+                "latex-9ebe705d069478f9a9775c1c7a48b7bab1246814.png",
+                "latex-b875308bfc89275728ad2c4b2c33cf8115b328a1.png",
+                "latex-e7110eed530f6edcb0fe7961894037443fed129b.png",
+                "latex-eebfa51c683a204cd1d71b64c03be28089f6c2d9.png"
+            ],
             "name": "02 Elementare Behandlung",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Die vereinfachte Stoßfrequenz eines Gases ist nach $\\frac{\\Delta N}{\\Delta t} = n\\cdot \\pi\\cdot \\sigma^2\\cdot c_0$ definiert. Welche Korrektur muss für die vereinfachte Annahme getroffen werden und wie lautet die endgültige Stoßfrquenz?\\\\<div>Wie ergibt sich hieraus die mittlere freie Weglänge?[/latex]<br></div>",
+                        "[latex]Statt $c_0$ muss die mittlere Relativgeschwindigkeit $\\bar{g}$ aus Maxwellverteilung genutzt werden.\\\\<div>Korrektur mit $a_z = \\frac{\\bar{g}}{c_0}$, wobei $\\bar{g} = \\sqrt{2}\\cdot \\bar{c}$<br><div>$\\nu_F = \\frac{4}{\\sqrt{3\\cdot \\pi}} n\\cdot \\pi\\cdot \\sigma^2\\cdot c_0$\\\\</div><div>Mittlere freie Weglänge nach $l = \\bar{c} / v_F = Funktion(\\frac{1}{\\sigma^2\\cdot n})$ und nicht von Geschwindigkeit abhänhig.[/latex]<br></div></div>"
+                    ],
+                    "guid": "CYjg?(9#N#",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sit die Knudsenzahl definiert und welche Gebiete erschließen sich aus dieser?[/latex]<br>",
+                        "[latex]$ Kn = \\frac{l}{L}$\\\\<div>Gebiete:</div><div>\\begin{enumerate}</div><div>\\item Kontinuum $Kn &lt; 0.01$ \\textrightarrow fast nur Teilchenstöße</div><div>\\item Gleitströmungsgebiet $0.01 &lt; Kn &lt; 0.1$ \\textrightarrow Einfluss der Randzonen</div><div>\\item Übergangsgebiet $0.1 &lt; Kn &lt; 10$ \\textrightarrow&nbsp;Teilchenstöße $\\simeq$ Wandstöße</div><div>\\item Freie Molekülbewegung $Kn &gt; 10$ \\textrightarrow&nbsp;fast nur wandstöße</div><div>\\end{enumerate}[/latex]</div>"
+                    ],
+                    "guid": "JF8zg+[Mx`",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist der mittlere Teilchenabstand definiert in einem Würfelkontrollvolumen?[/latex]<br>",
+                        "[latex]$ d = n^{-1/3}$[/latex]"
+                    ],
+                    "guid": "j+yUEG`ZE",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was kommt durch die gaskinetische Betrachtung der Couette-Strömung zustande?[/latex]<br>",
+                        "[latex]Druch die Eigengeschwindigkeit der Teilchen muss eine Tangentialspannung herrschen, um ein lineares Geschwindigkeitsprofil zu erhalten.\\\\<div>Dynamische Viskosität $\\eta \\propto \\sqrt{T}$[/latex]<br></div>"
+                    ],
+                    "guid": "M3BC_>_$eR",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Die dynamische Zähigkeit lautet nach empirischem Ansatz $\\eta = \\eta_0 (\\frac{T}{t_0})^S$. Der Parameter S ist mit 0.5....1 angegeben. Aus der gaskinetischen Betrachtung ist der Exponentn mit 0.5 definiert. Aus Experimenten erfolgt, dass dieser größer ist als 0.5. Warum ist das so?[/latex]<br>",
+                        "[latex]Die gaskinetische Betrachtung bezieht die Anziehungskräfte der Atome nicht mit ein. Somit ist für Atome mit großer Molmasse der Exponent $&gt; 1$. Im Sutherland-Modell wird dieser Zusammenhang berücksichtigt.[/latex]<br>"
+                    ],
+                    "guid": "fF#j1J$.`1",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was beschreibt die Korrektur von Eucken?[/latex]<br>",
+                        "[latex]Der Wärmetransport eines Gases wird aufgespaltet in Anteile für translatorische Bewegung und Anteile für die innere Energie. Inneren Freiheitsgrade werden im einfachen Modell nicht modelliert.[/latex]<br>"
+                    ],
+                    "guid": "<)M1][m[J",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
         },
         {
             "__type__": "Deck",
