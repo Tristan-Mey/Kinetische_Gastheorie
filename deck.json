@@ -233,18 +233,30 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "latex-14ef8e987894b9f984554adcca4644be490010ab.png",
                 "latex-169644d70cb804a9f1a563158e1e6627afb0512f.png",
                 "latex-247ed792407424dbb721ef770693120c6774a4a2.png",
                 "latex-28a7554cd91be3ed1e6db191cb4cddb5519fe730.png",
+                "latex-3b8e2c58ffe40e4cbee52a3a7047e73f0da56256.png",
+                "latex-42371d6688b42cb9b080f9f0c1830688b4bab026.png",
                 "latex-4298a4a4ea8593ec0675a960712604f8f52e2e38.png",
+                "latex-429d9354a4dc02856a0d6adb9b0fc1bdca02df6f.png",
+                "latex-60438f5fd0f21d1de2e358277721a289b3a03179.png",
                 "latex-622d034ebbd08f14281a1f35e9b30f178a6f89b1.png",
+                "latex-6698f8376bf7ca1845a1520d3888b6b70b089403.png",
                 "latex-696f40b26d6887ec0761df197a10e1a250510aeb.png",
                 "latex-7e457584f6ba50b9f94e6ce598d4172e3d49c598.png",
                 "latex-7f0bd6596fc9c8171ce6687065a6e5111cda44f4.png",
+                "latex-82d5c02929ce410929885084699fbf436ee1dc57.png",
+                "latex-8488fe4bde886f782fd7030791cac14298c1cce0.png",
                 "latex-9ebe705d069478f9a9775c1c7a48b7bab1246814.png",
                 "latex-b875308bfc89275728ad2c4b2c33cf8115b328a1.png",
+                "latex-cd32a8491d8b2f9d0d11d6e9463791dfacff7d37.png",
                 "latex-e7110eed530f6edcb0fe7961894037443fed129b.png",
-                "latex-eebfa51c683a204cd1d71b64c03be28089f6c2d9.png"
+                "latex-eebfa51c683a204cd1d71b64c03be28089f6c2d9.png",
+                "latex-f24097b3f890b013c1d48edc2af0acc5ae278b6e.png",
+                "paste-2a3d709793610d338deb7a69d05c1f4becea9ffd.jpg",
+                "paste-69f297422a546cb9a553969d3e209552a09db079.jpg"
             ],
             "name": "02 Elementare Behandlung",
             "notes": [
@@ -307,6 +319,66 @@
                     "guid": "<)M1][m[J",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum ist der Ansatz nach Newton im Gebiet der freien Molekülbewegung für die Tangentialspannung nicht sinnvoll?[/latex]<br>",
+                        "[latex]Tanngentialspannung im FM Gebiet nicht von Abstand abhängig, somit muss Zähigkeit $\\eta$ von Geoemtrie abhängen, womit sie nicht mehr als Stoffgröße definiert ist.[/latex]<br>"
+                    ],
+                    "guid": "CNqL%Oy%0~",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Bedingung liegt vor, wenn der kunematische Akkomodationskoeffizient null ist?[/latex]<br>",
+                        "[latex]Keine Anpassung an Wandgeschwindigkeit: Teilchengeschwindigkeit vor und nach dem Stoß mit der Wand ist gleich \\textrightarrow es wird keine Tangentialspannung übertragen[/latex]<br>"
+                    ],
+                    "guid": "qDNl}rY!mO",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum kann im Gebiet der freien Molekülbewegung die Wärmeleitfähigkeit nicht nach Fourier definiert werden?[/latex]<br>",
+                        "[latex]Wärmestrom ist unabhängig von Abstand der Platten.[/latex]<br>"
+                    ],
+                    "guid": "M&l=&e3/$0",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sehen die Temperaturverläufe zwischen 2 Wänden für unterschiedliche Kn, bzw. Strömungsgebiete aus?[/latex]<br>",
+                        "<img src=\"paste-69f297422a546cb9a553969d3e209552a09db079.jpg\">"
+                    ],
+                    "guid": "QwL[N[JNEY",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sieht der dimensionslose Wärmestrom (in Bezug auf Kontinuum) aufgetragen über 1/Kn aus?[/latex]<br>",
+                        "<img src=\"paste-2a3d709793610d338deb7a69d05c1f4becea9ffd.jpg\">"
+                    ],
+                    "guid": "LW`L0II`DL",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist der Leitwert einer Rohrleitung definiert?[/latex]<br>",
+                        "[latex]$L = \\frac{\\bar{p} \\bar{\\dot{V}}}{p_1-p_2}$[/latex]<br>"
+                    ],
+                    "guid": "LU%E#$v5@A",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
                 }
             ]
         },
@@ -319,9 +391,86 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "latex-17e8ecd9cc7baa241a2543e73eaa4837666e9193.png",
+                "latex-3b49c92e7c461e0c197de756393907f3b152c790.png",
+                "latex-5916b1deac2869e5ce3ab113e2cc21b41bb1fe2b.png",
+                "latex-761eb78cd43b980ff905177392ac5d3945d992a3.png",
+                "latex-7cf356e77879ae6d209be2e9467062c70f6948dc.png",
+                "latex-8b599459caff7dde6954b098238c4ffb42f3ff71.png",
+                "latex-9c25d7379dc8e5ba9f6814430bbf0d641fb69230.png",
+                "latex-b3b1207348e5bb98ea5e8bdd6f149e54ba11444e.png",
+                "latex-bb68130ae4b505a34f4e54b26f4ee67fd64e36ed.png",
+                "latex-c8bda5ed4533671f4c8928e44b5f58bc3c99c73d.png",
+                "latex-eccf84d2f08168ef5c19b80b525cc54a0eb7c237.png",
+                "paste-43efaf920cf23c0fb5a794c0eac6d85af6e222c4.jpg",
+                "paste-4f4ba8da44b8256a342dc4d8aa646f03d6f39095.jpg",
+                "paste-6d0099dc3964dd6751d843f18946eb35166a0aab.jpg",
+                "paste-a779d02fafaaa57091bbd4bee394b3d5cfe29d4e.jpg"
+            ],
             "name": "03 Molekulare Geschwindigkeitsverteilung",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Vorraussetzungen müssen bei der Maxwell-Verteilungsfunktion getroffen werden?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Thermodynamisches Gleichgewicht</div><div>\\item keine makroskopische Geschwindigkeit</div><div>\\item keine bevorzugte Geschwindigkeitsrichtung</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "rGql6EKK6o",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was geschieht mit der Gaußverteilung bei steigender Temperatur?[/latex]<br>",
+                        "[latex]Verteilung wird flacher und breiter. Die Fläche unter der Kurve bleibt jedoch gleich. Anteil der schnelleren Teilchen nimmt zu.[/latex]<br><div><img src=\"paste-a779d02fafaaa57091bbd4bee394b3d5cfe29d4e.jpg\"><br></div><div><img src=\"paste-43efaf920cf23c0fb5a794c0eac6d85af6e222c4.jpg\"><br></div>"
+                    ],
+                    "guid": "Cl0dJ@AVis",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sieht die Verteilungsfunktion in Abhängigkeit der Teilchemasse aus?[/latex]<br>",
+                        "[latex]Teilchen mit geringerer Masse, verhalten sich wie Teilchen mit höherer Temperatur[/latex]<br><div><img src=\"paste-4f4ba8da44b8256a342dc4d8aa646f03d6f39095.jpg\"><br></div>"
+                    ],
+                    "guid": "jU9X-0cQBp",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Skizzieren SIe die verschiedenen Geschwindigkeiten, welche sich aus der $f_3(c)$ Verteilungsfunktion ermitteln lassen.[/latex]<br>",
+                        "<img src=\"paste-6d0099dc3964dd6751d843f18946eb35166a0aab.jpg\">"
+                    ],
+                    "guid": "g<neYuGU&A",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was versteht man unter dem Begriff Effusion?[/latex]<br>",
+                        "[latex]Ausströmen eines Gases durch eine kleine Öffnung d allein durch die Eigengeschwindigkeit der Teilchen. Hierbei gilt $ d \\ll l$[/latex]<br>"
+                    ],
+                    "guid": "r$|^r<:K7p",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie verhält sich der Teilchenstrom bei Effusion in Abhängigkeit der Teilchenmasse und wofür wird dies genutzt?[/latex]<br>",
+                        "[latex]$\\dot{N} \\propto \\sqrt{T/M}$\\\\<div>Bei gegebener Temperatur ist der Teilchenstrom für leichtere Gase in einem Gemisch größer \\textrightarrow Wird für Gastrennungsverfahren genutzt[/latex]<br></div>"
+                    ],
+                    "guid": "P4*JT8W!Xr",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "1075b490-80d4-11eb-9ea5-b46d83530bff",
@@ -469,6 +618,61 @@
                     "name": "Karte 1",
                     "ord": 0,
                     "qfmt": "{{Vorderseite}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach-22975",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
                 }
             ],
             "type": 0,
