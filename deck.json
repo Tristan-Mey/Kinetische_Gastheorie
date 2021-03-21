@@ -394,7 +394,9 @@
             "media_files": [
                 "latex-17e8ecd9cc7baa241a2543e73eaa4837666e9193.png",
                 "latex-3b49c92e7c461e0c197de756393907f3b152c790.png",
+                "latex-51cb74992876ef3ce3d33ae5df8c2883fb1ac946.png",
                 "latex-5916b1deac2869e5ce3ab113e2cc21b41bb1fe2b.png",
+                "latex-661e5b420b6e82d5d05e2f09f42b0afc95ab52cb.png",
                 "latex-761eb78cd43b980ff905177392ac5d3945d992a3.png",
                 "latex-7cf356e77879ae6d209be2e9467062c70f6948dc.png",
                 "latex-8b599459caff7dde6954b098238c4ffb42f3ff71.png",
@@ -467,6 +469,16 @@
                         "[latex]$\\dot{N} \\propto \\sqrt{T/M}$\\\\<div>Bei gegebener Temperatur ist der Teilchenstrom für leichtere Gase in einem Gemisch größer \\textrightarrow Wird für Gastrennungsverfahren genutzt[/latex]<br></div>"
                     ],
                     "guid": "P4*JT8W!Xr",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie verhät sich die Transformation der Eigengeschwindigkeiten auf die Relativgeschwindigkeiten und Schwerpunktgeschwindigkeit zweier Gase?[/latex]<br>",
+                        "[latex]Ist eine reine Drehung und somit keine Verzerrung \\textrightarrow Funktionaldeterminante gleich 1[/latex]<br>"
+                    ],
+                    "guid": "kWiN_abydd",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 }
